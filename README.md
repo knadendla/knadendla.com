@@ -25,23 +25,23 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 ## Landing
 
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/home.png)
+![Hompage]()
 
 ## About
 
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/about.png)
+![Hompage]()
 
 ## Projects
 
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
+![Hompage]()
 
 ## Experience
 
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
+![Hompage]()
 
 ## Contact
 
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
+![Hompage]()
 
 # Tech Stack
 
